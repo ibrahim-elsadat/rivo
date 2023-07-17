@@ -1,0 +1,21 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+:root{
+    --main-color:rgb(125, 59, 231); 
+}
+.fa-brands{
+    font-size: 3rem;
+    
+    color:var(--main-color);
+}
+.fab{
+    color:var(--main-color);
+}
+
+@media screen and (max-width :992px)  {
+    .profile-img{
+    width:50% !important;
+}
+}
+

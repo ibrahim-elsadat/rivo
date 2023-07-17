@@ -1,0 +1,19 @@
+i{
+    font-size: 5rem;
+    color: rgb(121, 68, 185);
+    transition-duration: 3s;
+}
+
+.btn-primary{
+    background-color: rgb(121, 68, 185);
+    border-color: rgb(121, 68, 185);
+    transition-duration: 0.5s;
+}
+.btn-primary:hover{
+    background-color: rgb(97, 185, 68);
+    border-color: rgba(92, 129, 80, 0.632);
+}
+.fa-i-cursor{
+    color: rgb(121, 68, 185);
+    transition-duration: 3s;
+}
